@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vbhv4GitHub
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning Vanilla JavaScript.
+- 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to get some freelance projects or an internship.
 - 📫 Reach me at ravi9406126068@gmail.com
 
