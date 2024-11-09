@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhav
-- 👀 I’m interested in full time full-stack developer position.
-- 🌱 I’m currently working as a full-stack developer at Codemancers.
-- 💞️ I'm currently experimenting with nextJS and MUI for a pet project.
+- 👀 I’m interested in full time full-stack web developer position.
+- 🌱 I’m currently working as a full-stack web developer at Codemancers.
+- 💞️ I'm currently taking interest in learning langchain and RAG.
 - Checkout my [Current Portfolio](https://vbhv4webdev-portfolio.vercel.app/)
 - Checkout my [Old Portfolio](https://vbhv4webdev.netlify.app/)
 - 📫 Reach me at ravi9406126068@gmail.com
